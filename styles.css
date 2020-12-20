@@ -1,0 +1,46 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: right 600px top 370px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: white;
+}
+
+#characteristic{
+    margin: auto;
+    width: 60%;
+    color: orange;
+}
+
+button:hover{
+    background-color: red;
+}
+
+input[type=number]{
+    width: 4.5%;
+}
+
+button{
+    box-shadow: 5px 5px 8px black;
+    border-radius: 12px;
+    font-size: 22px;
+    color: deepskyblue;
+}
+
+h1{
+    color:burlywood;
+}
+
+h2{
+    color:burlywood;
+}
+
+#result{
+    font-size: 40px ;
+    font-weight: bold;
+    color:darksalmon;
+    text-decoration: underline;
+    text-shadow: 1px 1px 1px black;
+}
