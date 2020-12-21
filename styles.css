@@ -19,7 +19,8 @@ button:hover{
 }
 
 input[type=number]{
-    width: 4.5%;
+    width: 4.3%;
+    border-radius: 12px;
 }
 
 button{
