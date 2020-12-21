@@ -27,6 +27,7 @@ button{
     border-radius: 12px;
     font-size: 22px;
     color: deepskyblue;
+    cursor: pointer;
 }
 
 h1{
